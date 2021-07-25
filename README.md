@@ -84,3 +84,6 @@ Appendix B shows that there is a positive relationship between the median annual
 ![Screen Shot 2021-07-25 at 2 38 52 pm](https://user-images.githubusercontent.com/78772945/126887950-8ea30649-2e3c-426d-aa86-9dccac847956.png)
 
 ### Appendix B: Relationship between average monthly rent and firerisk score.
+
+![Screen Shot 2021-07-25 at 2 39 02 pm](https://user-images.githubusercontent.com/78772945/126887964-8d4fd530-376a-4661-a3d3-26fa059f42be.png)
+

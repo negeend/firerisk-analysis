@@ -59,4 +59,27 @@ We also calculate the overlapping percentage of the groundwater area intersectin
 Finally, we calculated z-score for each factor density, and integrated them into the formula to find the fire risk score of each neighbourhood.
 Results: Overall, Figure 1 shows that the North-West neighbourhoods have the highest fire risk score of 0.8 – 1.0, followed by the South-West of NSW with the score ranges from 0.4 to 0.8. In contrast, the Eastern area scores lowest, 0.0 – 0.4. This substantial discrepancy may be because the vegetation is distributed densely in areas with higher risk, while assistive services are readily accessible in urban neighbourhoods.
 
-![alt text](http://url/to/img.png)
+![Screen Shot 2021-07-25 at 2 34 27 pm](https://user-images.githubusercontent.com/78772945/126887882-94ea3951-c7f7-4111-9aeb-2e7763da37d1.png)
+
+## Correlation Analysis:
+Appendix B shows that there is a positive relationship between the median annual household income and fire risk score, with a relatively strong correlation coefficient of 0.45. However, Appendix C shows an opposite trend, in which the average monthly rent is negatively correlated with the fire risk score, with a low correlation score of -0.02. In conclusion, the affluence of a neighborhood appears not to be correlated with fire risk score.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Appendix:
+
+### Appendix A: Relationship between the median annual household income and firerisk score.
+
+
+### Appendix B: Relationship between average monthly rent and firerisk score.

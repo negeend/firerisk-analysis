@@ -81,5 +81,6 @@ Appendix B shows that there is a positive relationship between the median annual
 
 ### Appendix A: Relationship between the median annual household income and firerisk score.
 
+![Screen Shot 2021-07-25 at 2 38 52 pm](https://user-images.githubusercontent.com/78772945/126887950-8ea30649-2e3c-426d-aa86-9dccac847956.png)
 
 ### Appendix B: Relationship between average monthly rent and firerisk score.
